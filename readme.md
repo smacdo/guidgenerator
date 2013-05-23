@@ -1,7 +1,12 @@
 # GUID Generator
-An extremely simple Windows application that generates random GUIDs.
+An extremely simple Windows application that generates random GUIDs. It was written using
+only the Visual C++ runtime library and the Windows SDK, meaning it generates a tiny
+executable with no dependencies. (The runtime library is statically linked).
 
 ![GUID Generator Screenshot](http://i.imgur.com/tLpi48l.png)
+
+Enjoy! The code isn't my best work - it's not bad, just simple and contained in one
+file. If people find this useful, I will support it with new features and bug fixes.
 
 ## Project Setup
 

@@ -1,7 +1,7 @@
 # GUID Generator
 An extremely simple Windows application that generates random GUIDs.
 
-![GUID Generator Screenshot](http://imgur.com/tLpi48l)
+![GUID Generator Screenshot](http://i.imgur.com/tLpi48l.png)
 
 ## Project Setup
 
